@@ -23,7 +23,6 @@ namespace GC_BonusLab3_NumberGuess
                 int myInt = 0;
                 Random rnd = new Random();
                 int computerInt = rnd.Next(1, 101);
-                Console.Write(computerInt);
                 int tries = 0;
                 Console.WriteLine("I'm thinking of a number from 1 to 100.");
                 Console.WriteLine("What do you think it is: ");
