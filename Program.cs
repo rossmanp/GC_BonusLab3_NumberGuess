@@ -16,6 +16,7 @@ namespace GC_BonusLab3_NumberGuess
         static void Main(string[] args)
         {
             bool letsPlay = true;
+            //This loop runs the number guess program. 
             while (letsPlay)
             {
                 bool wrongGuess = true;
@@ -28,6 +29,8 @@ namespace GC_BonusLab3_NumberGuess
                 Console.WriteLine("What do you think it is: ");
                 while (wrongGuess)
                 {
+                    //This do while loop ensures that an integer between 1 and 100
+                    //is chosen; if one is not the loop runs again.
                     do
                     {
                         int.TryParse(Console.ReadLine(), out myInt);
@@ -39,6 +42,9 @@ namespace GC_BonusLab3_NumberGuess
                     while (myInt < 1 || myInt > 100);
 
                     tries++;
+
+                    //These conditionals guide the user's next guess.
+                    //If the correct number is guessed, the loop is broken.
 
                     if (myInt == computerInt)
                     {
@@ -63,6 +69,11 @@ namespace GC_BonusLab3_NumberGuess
 
                 }
                 Console.WriteLine("There you go! You got my number in " + tries + " guesses.");
+
+                //This loop runs until "y" or "n" is input. If "y" is input the first
+                //while loop repeats, if "n" is input the program ends, and if neither "y"
+                //or "n" is input the following loop repeats until acceptable input is obtained.
+
                 bool replay = true;
                 while (replay)
                 {
