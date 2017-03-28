@@ -1,0 +1,6 @@
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab3_NumberGuess\GC_BonusLab3_NumberGuess\bin\Debug\GC_BonusLab3_NumberGuess.exe.config
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab3_NumberGuess\GC_BonusLab3_NumberGuess\bin\Debug\GC_BonusLab3_NumberGuess.exe
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab3_NumberGuess\GC_BonusLab3_NumberGuess\bin\Debug\GC_BonusLab3_NumberGuess.pdb
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab3_NumberGuess\GC_BonusLab3_NumberGuess\obj\Debug\GC_BonusLab3_NumberGuess.csprojResolveAssemblyReference.cache
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab3_NumberGuess\GC_BonusLab3_NumberGuess\obj\Debug\GC_BonusLab3_NumberGuess.exe
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\GC_BonusLab3_NumberGuess\GC_BonusLab3_NumberGuess\obj\Debug\GC_BonusLab3_NumberGuess.pdb
